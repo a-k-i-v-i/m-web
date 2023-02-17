@@ -50,7 +50,11 @@
     }
 
     &--courses {
+
        padding: 50px 0;
+
+
+
       h2 {
         font-weight: 500;
         font-size: 36px;
@@ -59,7 +63,11 @@
         align-items: center;
 
         color: #000000;
+
         margin: 55px 0;
+
+        margin: 100px 0;
+
       }
 
       &__inform {
@@ -119,9 +127,11 @@
     &--title {
       display: flex;
       align-items: center;
-      justify-content: center;
 
       margin: 45px 0;
+
+      margin: 70px 0;
+
       width: 1215px;
       height: 229px;
       left: 110px;
@@ -311,7 +321,10 @@
         &__buttons {
 
           button {
+
             padding: 10px 15px;
+
+            padding: 5px 10px;
             background: white;
             color: black;
             border-radius: 25px;
@@ -391,6 +404,8 @@
         display: flex;
         align-items: center;
         justify-content: center;
+        //align-items: center;
+        //justify-content: center;
         background: #FF563F;
         border-radius: 30px;
         flex-direction: column;
@@ -399,6 +414,7 @@
         input {
           display: flex;
           //flex-direction: row;
+          flex-direction: row;
           align-items: center;
           justify-content: center;
           width: 588px;
@@ -412,6 +428,10 @@
 
         &--checked{
           width: 646px;
+          margin: 10px 82px;
+        }
+
+        &--checked{
           display: flex;
           align-items: center;
           input{
@@ -435,6 +455,7 @@
         button{
           padding: 17px 0;
           width: 629px;
+          width: 588px;
           background: #090A0C;
           border-radius: 44px;
           font-weight: 500;
@@ -587,4 +608,5 @@
 
 
   }
+
 }

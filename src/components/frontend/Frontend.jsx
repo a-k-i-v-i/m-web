@@ -6,9 +6,11 @@ import secondImg from "../image/frontEnd/second.png"
 import thirdImg from "../image/frontEnd/third.png"
 import Certificate from "../image/frontEnd/certificate.png"
 import Card from "../image/frontEnd/designer.png"
+
 import mentorRight from "../image/frontEnd/mentorRight.png"
 import mentorCenter from "../image/frontEnd/mentorCenter.png"
 import mentorLeft from "../image/frontEnd/mentorLeft.png"
+
 
 
 const Frontend = () => {
@@ -214,6 +216,7 @@ const Frontend = () => {
 
             </div>
 
+
             <div className="mentor">
                 <div className="container">
                     <div className="mentor--title">
@@ -279,6 +282,7 @@ const Frontend = () => {
 
 
             </div>
+
         </div>
     )
 }
