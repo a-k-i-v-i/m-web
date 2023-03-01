@@ -121,57 +121,6 @@ const Home = () => {
           </div>
         </div>
 
-        <section>
-          <div className="scroll text1" style={{ background: "#EC3025" }}>
-            <div>
-              курсы <span>курсы - </span> курсы <span>курсы - </span> курсы{" "}
-              <span>курсы - </span> курсы <span>курсы - </span>
-              курсы <span>курсы - </span> курсы <span>курсы - </span> курсы{" "}
-              <span>курсы - </span> курсы <span>курсы - </span>
-            </div>
-            <div>
-              курсы <span>курсы - </span> курсы <span>курсы - </span> курсы{" "}
-              <span>курсы - </span> курсы <span>курсы - </span>
-              курсы <span>курсы - </span> курсы <span>курсы - </span> курсы{" "}
-              <span>курсы - </span> курсы <span>курсы - </span>
-            </div>
-          </div>
-          <div
-            className="scroll text2"
-            style={{ background: "#4886FF", transform: "rotate(-5deg)" }}
-          >
-            <div>
-              FRONTEND <span>BACKEND </span> UX UI <span>FRONTEND </span>{" "}
-              BACKEND{" "}
-              <span>
-                -UX UI <img src={icon5} alt="" />{" "}
-              </span>{" "}
-              FRONTEND <span>BACKEND </span>
-              FRONTEND <span>BACKEND </span> UX UI <span>FRONTEND </span>{" "}
-              BACKEND{" "}
-              <span>
-                -UX UI <img src={icon5} alt="" />{" "}
-              </span>{" "}
-              FRONTEND <span>BACKEND </span>
-            </div>
-            <div>
-              FRONTEND <span>BACKEND </span>
-              UX UI
-              <span>FRONTEND </span> BACKEND{" "}
-              <span>
-                UX UI <img src={icon5} alt="" />{" "}
-              </span>{" "}
-              FRONTEND <span>BACKEND </span>
-              FRONTEND <span>BACKEND </span> UX UI <span>FRONTEND </span>{" "}
-              BACKEND{" "}
-              <span>
-                UX UI <img src={icon5} alt="" />{" "}
-              </span>{" "}
-              FRONTEND <span>BACKEND </span>
-            </div>
-          </div>
-        </section>
-
         <section id="user">
           <div className="container">
             <div className="user">
